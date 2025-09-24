@@ -1,4 +1,5 @@
 ## Olá, eu sou João Pedro Chapichi 🖐️
+# Sou estudante de ## Análise e Desenvolvimento de Sistemas ## na Fatec Jales
 ![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-pedro-chapichi&show_icons=true&theme=dracula)
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline-block;">
