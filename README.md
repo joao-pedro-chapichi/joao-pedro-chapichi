@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Pedro Chapichi  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Jales.  
-💻 Experiência em **C#**, **.NET**, **SQL** e **React**.  
+💻 Experiência em **C#**, **.NET**, **SQL**, **React** e **TypeScript**.  
 🔧 Foco em **desenvolvimento backend**, mas sempre aberto a aprender novas tecnologias.  
 📚 Buscando aprendizado contínuo e evolução constante.  
 
